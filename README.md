@@ -79,12 +79,17 @@
 
 **Зачем** - большинство лучших курсов, справочных и учебных материалов доступно именно на английском языке. Если возникают трудности, то со знанием английского языка выше шансы найти ответ во всемирной паутине. Также если хотите работать в крутой престижной кампании, то без английского никак.
 
-- [ ] Ресурсы (Не обязательно выбирать все ресурсы, выберите или найдите то, что вам больше нравится):
+- [ ] Платформы:
     - [ ] [Duolingo](https://www.duolingo.com/)
     - [ ] [Lingualeo](https://lingualeo.com/)
     - [ ] [Babadum](https://babadum.com/)
     - [ ] [Anki](http://ankisrs.net/) программа для облегчения запоминания слов
     - [ ] [Medium](https://medium.com/) блог-платформа, читать и писать статьи
+    
+- [ ] Ресурсы:
+    - [ ] [Справочник по грамматике](http://www.study.ru/support/handbook/)
+    - [ ] [Максимально подробная таблица времен](https://m.pikabu.ru/story/maksimalno_podrobnaya_dopilennaya_tablitsa_vremen_angliyskogo_yazyika_v_aktivnom_zaloge_s_primerami_5775676)
+    - [ ] [Ссылки на ресурсы](https://m.pikabu.ru/story/spisok_poleznyikh_ssyilok_dlya_tekh_kto_izuchaet_samostoyatelno_angliyskiy_yazyik_4101696)
 
 ---
 
@@ -307,8 +312,13 @@
 
 - [ ] Примеры серверных языков:
     - [ ] PHP
-    - [ ] Python
-    - [ ] Ruby
+    - [ ] C#
+    - [ ] Go
+    
+- [ ] C#:
+    - [ ] [Руководство по языку C#](https://metanit.com/sharp/tutorial/)
+    - [ ] [Руководство по ASP.NET Core 2](https://metanit.com/sharp/aspnet5/)
+    - [ ] [Разработка современных веб-приложений с помощью ASP.NET Core](https://docs.microsoft.com/ru-ru/dotnet/standard/modern-web-apps-azure-architecture/)
 
 - [ ] Статьи:
     - [ ] Типы данных
