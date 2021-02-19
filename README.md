@@ -265,7 +265,7 @@
     - [ ] FDD
    
 - [ ] Статья:
-    - [ ] [TDDx2, BDD, DDD, FDD, MDD и PDD, или все, что вы хотите узнать о Driven Development](https://habr.com/ru/post/459620/
+    - [ ] [TDDx2, BDD, DDD, FDD, MDD и PDD, или все, что вы хотите узнать о Driven Development](https://habr.com/ru/post/459620/)
 ---
 
 ### Безопасность сайтов [&uarr;](#Содержание)
